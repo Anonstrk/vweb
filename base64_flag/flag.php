@@ -1,0 +1,1 @@
+<?php echo base64_encode('flag{base64_encoded_flag}'); ?>
